@@ -7,8 +7,8 @@
 
 
 ## Connect with me 📨
-feel free to contact me if you have any question to my project or if you are willing to cooperate on the project.
-[mail](mailto:ryan.hsu06190619@gmail.com)
+feel free to contact me via [mail](mailto:ryan.hsu06190619@gmail.com) if you have any advise to any project or if you are willing to cooperate on any project.
+
 
 
 ## language and Tools 🔨
