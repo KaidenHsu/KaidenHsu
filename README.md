@@ -6,6 +6,11 @@
 - ⚡ 2022 Goals: Contribute more on Github.
 
 
+## Connect with me 📨
+feel free to contact me if you have any question to my project or if you are willing to cooperate on the project.
+[mail](mailto:ryan.hsu06190619@gmail.com)
+
+
 ## language and Tools 🔨
 
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
