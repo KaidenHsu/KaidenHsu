@@ -6,7 +6,7 @@
 - ⚡ 2022 Goals: Contribute more on Github.
 
 
-## Connect with me 📨
+## Reach out to me 📨
 Feel free to contact me via [mail](mailto:ryan.hsu06190619@gmail.com) if you have any advise to any project or if you are willing to cooperate on any project.
 
 
