@@ -1,4 +1,4 @@
-## Welcome to my Github page 👋
+## Welcome to My Github Page 👋
 
 
 - 🌱 I’m currently learning everything.
@@ -6,7 +6,7 @@
 - ⚡ 2022 Goals: Contribute more on Github.
 
 
-## Reach out to me 📨
+## Reach Out to Me 📨
 Feel free to contact me via [mail](mailto:ryan.hsu06190619@gmail.com) if you have any advise to any project or if you are willing to cooperate on any project.
 
 
