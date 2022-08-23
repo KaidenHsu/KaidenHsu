@@ -13,7 +13,6 @@ Feel free to contact me via [mail](mailto:ryan.hsu06190619@gmail.com) if you hav
 
 ## Skillset 🔨
 
-<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="c" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />    
