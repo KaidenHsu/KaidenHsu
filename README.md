@@ -14,4 +14,3 @@
 <img align="left" alt="vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" />
 <img align="vscode" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="ubuntu" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
