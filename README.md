@@ -1,7 +1,7 @@
 ## 🔥 Welcome to My Github Page
 
 - 🌱 I’m currently learning everything.
-- 📫 How to reach me: [email](mailto:ryan.hsu06190619@gmail.com) me or contact me on Twitter.
+- 📫 How to reach me: Pls [email](mailto:ryan.hsu06190619@gmail.com) me.
 - ⚡ 2022 Goal: Contribute more on Github.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KaidenHsu&show_icons=true&theme=cobalt&hide=prs,contribs" alt="mystats" /></p>
 
