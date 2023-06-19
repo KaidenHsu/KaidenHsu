@@ -2,7 +2,7 @@
 
 - 🔫 I am on my way to becoming a software developer.
 - 📫 How to reach out to me: Please [email](mailto:ryan.hsu06190619@gmail.com) me.
-- 🎒 2023 goal: Update my Leetcode repository.
+- 🎒 2023 goal: update my Leetcode repository
 - 🤡 fun fact: Vim >> Emacs
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KaidenHsu&show_icons=true&theme=cobalt&hide=prs,contribs" alt="mystats" /></p>
 
