@@ -1,10 +1,9 @@
 ## 🔥 Welcome to my Github page!!!
 
-- 🔫 Omw to a software developer.
-- 📫 Reach out to me: Please [email](mailto:ryan.hsu06190619@gmail.com) me.
-- 🎒 2024 goal: Study more about Machine Learning and programming in general.
+- 🔫 An aspiring software developer.
+- 📫 Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
+- 🎒 2024 goal: Study more on AI, ML and programming in general.
 - 🤡 Fun fact: Vim >> Emacs
-- 
 <p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=KaidenHsu&cc=222&tc=9ab&ic=47d&bc=000" alt="mystats" /></p>
 
 ## 🔨 Skillset
