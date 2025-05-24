@@ -2,7 +2,7 @@
 
 - 🔫 An aspiring software developer.
 - 📫 Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
-- 🎒 2024 goal: Study more on AI, ML and programming in general.
+- 🎒 2025 goal: Study more on embedded systems, and HDL programming
 - 🤡 Fun fact: Vim >> Emacs
 <p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=KaidenHsu&cc=222&tc=9ab&ic=47d&bc=000" alt="mystats" /></p>
 
