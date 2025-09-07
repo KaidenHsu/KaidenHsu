@@ -1,8 +1,8 @@
 ## 🔥 Welcome to my Github page!!!
 
-- 🔫 An aspiring software developer.
+- 🔫 A budding embedded developer.
 - 📫 Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
-- 🎒 2025 goal: Study more on embedded systems, and HDL programming
+- 🎒 2025 goal: Working on STM32 robotics projects.
 - 🤡 Fun fact: Vim >> Emacs
 <p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=KaidenHsu&cc=222&tc=9ab&ic=47d&bc=000" alt="mystats" /></p>
 
@@ -13,6 +13,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="linux" width="33px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.st.com%2Fen%2Fmicrocontrollers-microprocessors.html&psig=AOvVaw3GmECqARaqZTPbuTDieB_t&ust=1757304712360000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjT_qrkxY8DFQAAAAAdAAAAABAE" />
 <details>
 <summary>📈 Detail Statistics 📈</summary>
 <br>
