@@ -1,6 +1,6 @@
 ## 🔥 Welcome to my Github page!!!
 
-- 🔫 A budding embedded developer.
+- 🔫 A budding embedded engineer.
 - 📫 Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
 - 🎒 2025 goal: Working on STM32 robotics projects.
 - 🤡 Fun fact: Vim >> Emacs
