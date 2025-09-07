@@ -12,7 +12,9 @@
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="linux" width="33px" src="https://www.st.com/content/dam/category-pages/microcontrollers-microprocessors-catalog-item/subbrand-stm32.svg" />
+<img src="https://www.st.com/content/dam/category-pages/microcontrollers-microprocessors-catalog-item/subbrand-stm32.svg"
+     alt="STM32 logo"
+     style="width:33px; vertical-align:middle;">
 <details>
 <summary>📈 Detail Statistics 📈</summary>
 <br>
