@@ -11,9 +11,8 @@
 <img align="left" alt="c" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="linux" width="33px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.st.com%2Fen%2Fmicrocontrollers-microprocessors.html&psig=AOvVaw3GmECqARaqZTPbuTDieB_t&ust=1757304712360000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjT_qrkxY8DFQAAAAAdAAAAABAE" />
+<img align="linux" width="33px" src="https://www.st.com/content/dam/category-pages/microcontrollers-microprocessors-catalog-item/subbrand-stm32.svg" />
 <details>
 <summary>📈 Detail Statistics 📈</summary>
 <br>
