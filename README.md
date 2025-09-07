@@ -8,16 +8,16 @@
 
 ## 🔨 Skillset
 
-<img align="left" alt="c" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<img align="left" alt="STM32" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img src="https://www.st.com/content/dam/category-pages/microcontrollers-microprocessors-catalog-item/subbrand-stm32.svg"
-     alt="STM32 logo"
-     style="width:33px; vertical-align:middle;">
+<img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br/>
+<br/>
+
 <details>
 <summary>📈 Detail Statistics 📈</summary>
-<br>
+
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaidenHsu&theme=rose_pine) 
