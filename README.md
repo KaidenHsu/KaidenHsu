@@ -1,8 +1,8 @@
 ## 🔥 Welcome to my Github page!!!
 
-- 🔫 A EE student working on microcontroller applications and FPGA, VLSI design
+- 🔫 A EE student working on FPGA & VLSI design
 - 📫 Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
-- 🎒 2025 goal: Familiarizing myself with the nitty gritty in digital design and the entire desgin flow
+- 🎒 2025 goal: Familiarizing myself with the entire VSLI design flow
 - 🤡 Fun fact: Vim >> Emacs
 <p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=KaidenHsu&cc=222&tc=9ab&ic=47d&bc=000" alt="mystats" /></p>
 
