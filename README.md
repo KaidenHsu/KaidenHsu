@@ -7,12 +7,12 @@
 <p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=KaidenHsu&cc=222&tc=9ab&ic=47d&bc=000" alt="mystats" /></p>
 
 ## 🔨 Skillset
-<img alt="verilog" width="40px" src="materials/verlog.svg" />
+<img alt="verilog" width="40px" src="materials/verilog.svg" />
 <img alt="systemverilog" width="40px" src="materials/systemverilog.svg" />
 <img alt="xilinx" width="33px" src="materials/xilinx.png" />
 
 
-<img align="left" alt="verilog" width="26px" src="materials/verlog.svg" />
+<img align="left" alt="verilog" width="26px" src="materials/verilog.svg" />
 <img align="left" alt="systemverilog" width="26px" src="materials/systemverilog.svg" />
 <img align="left" alt="xilinx" width="26px" src="materials/xilinx.png" />
 <img align="left" alt="STM32" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
