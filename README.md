@@ -11,12 +11,9 @@
 <img align="left" alt="systemverilog" width="26px" src="materials/systemverilog.svg" />
 <img align="left" alt="xilinx" width="26px" src="materials/xilinx.png" />
 <img align="left" alt="STM32" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
-<br>
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-
 
 <details>
 <summary>📈 Detail Statistics 📈</summary>
