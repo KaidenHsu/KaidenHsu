@@ -1,6 +1,5 @@
 # Hi there, I'm Kaiden! 👋
 
-- CS college major: AI, ML
 - An EE master's working on FPGA & VLSI design
 - Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
 - 2025 goal: Familiarizing myself with the entire VSLI design flow
