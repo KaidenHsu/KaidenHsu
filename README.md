@@ -15,7 +15,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<details>
+<!-- <details> -->
 <summary>📈 Detail Statistics 📈</summary>
 
 My Github Stats
@@ -25,4 +25,4 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaidenHsu&theme=rose_pine) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaidenHsu&theme=rose_pine)
 
-</details>
+<!-- </details> -->
