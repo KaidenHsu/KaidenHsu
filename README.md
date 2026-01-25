@@ -1,10 +1,8 @@
-## 🔥 Welcome to my Github page!!!
+# Welcome to my Github page!
 
-- 🔫 An EE master's working on FPGA & VLSI design
-- 📫 Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
-- 🎒 2025 goal: Familiarizing myself with the entire VSLI design flow
-- 🤡 Fun fact: Vim >> Emacs
-<p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=KaidenHsu&cc=222&tc=9ab&ic=47d&bc=000" alt="mystats" /></p>
+- An EE master's working on FPGA & VLSI design
+- Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
+- 2025 goal: Familiarizing myself with the entire VSLI design flow
 
 ## 🔨 Skillset
 <img align="left" alt="verilog" width="26px" src="materials/verilog.svg" />
@@ -15,14 +13,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<!-- <details> -->
-<summary>📈 Detail Statistics 📈</summary>
-
-My Github Stats
+## 📈 Detail Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaidenHsu&theme=rose_pine) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaidenHsu&theme=rose_pine) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaidenHsu&theme=rose_pine)
-
-<!-- </details> -->
