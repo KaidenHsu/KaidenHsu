@@ -13,6 +13,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+<br>
+
 ## 📈 Detail Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaidenHsu&theme=rose_pine) 
