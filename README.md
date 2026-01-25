@@ -1,6 +1,6 @@
 ## 🔥 Welcome to my Github page!!!
 
-- 🔫 A EE student working on FPGA & VLSI design
+- 🔫 An EE master's working on FPGA & VLSI design
 - 📫 Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
 - 🎒 2025 goal: Familiarizing myself with the entire VSLI design flow
 - 🤡 Fun fact: Vim >> Emacs
