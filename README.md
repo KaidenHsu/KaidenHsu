@@ -1,6 +1,6 @@
 # Hi there, I'm Kaiden! 👋
 
-- An EE master's working on FPGA & VLSI design
+- An EE master's working on FPGAs & VLSI design
 - Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
 - 2025 goal: Familiarizing myself with the entire VSLI design flow
 
