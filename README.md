@@ -1,8 +1,10 @@
 # Hi there, I'm Kaiden! 👋
 
-- An EE master's working on FPGA & VLSI design. (research topic: AI acceleration using hardware-software co-design)
-- Reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
-- 2026 goal: Familiarizing myself with the entire VSLI design flow
+- an EE graduate at NSYSU (SoC subgroup)
+- lab: [System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/)
+- research focus: combine system design, FPGA acceleration, digital IC design with biomedical applications
+- reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
+- 2026 goal: familiarizing myself with the entire VSLI design flow
 
 ## 🔨 Skillset
 <img align="left" alt="Verilog" width="26px" src="materials/verilog.svg" />
