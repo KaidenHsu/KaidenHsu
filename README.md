@@ -6,6 +6,7 @@
 - research focus: combine system design, FPGA acceleration, digital IC design with biomedical applications
 - keywords: DSA, ESL, computer architecture, digital IC design, VLSI, FPGA prototyping, system design, hardware acceleration, HBM
 
+---
 
 - reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
 - 2026 goal: familiarizing myself with the ESL methodology and entire VSLI design flow
