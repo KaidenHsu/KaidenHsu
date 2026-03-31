@@ -1,12 +1,14 @@
 # Hi there, I'm Kaiden! 👋
 
-- 🏫 studied Computer Science at NCCU (AI subgroup)
-- 🏫 an Electrical Engineering graduate at NSYSU (SoC subgroup)
-- 🧪 lab: [System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/)
-    - research focus: combine system design, FPGA acceleration, digital IC design with biomedical applications
-    - keywords: DSA, ESL, computer architecture, digital IC design, VLSI, FPGA prototyping, system design, hardware acceleration, HBM
+- 🏫 bachelor: Computer Science (AI subgroup) @ NCCU
+- 🏫 master: Electrical Engineering (SoC subgroup) @ NSYSU
+    - 🧪 lab: [System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/)
+        - research focus: combine system design, FPGA acceleration, digital IC design with biomedical applications
+        - tools: Gem5, Alveo U250 FPGA
+        - keywords: DSA, ESL, computer architecture, digital IC design, FPGA prototyping, system design, HBM
+
 - 📧 reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
-- 🎯2026 goal: familiarizing myself with the ESL methodology and entire VSLI design flow
+- 🎯2026 goal: familiarizing myself with ESL methodology and the VLSI backend flow
 
 ## 🔨 Skillset
 <img align="left" alt="Verilog" width="26px" src="materials/verilog.svg" />
