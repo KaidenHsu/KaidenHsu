@@ -1,10 +1,10 @@
 # Hi there, I'm Kaiden! 👋
 
-- 🏫 bachelor: [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
 - 🏫 master: [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
     - research focus: combine system design, FPGA acceleration, digital IC design with biomedical applications
     - tools: Gem5, Alveo U250 FPGA
     - keywords: domain specific architecuture (DSA), electronic system level (ESL), digital IC design, FPGA prototyping, system design, hardware-software co-design
+- 🏫 bachelor: [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
 
 - 📧 reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
 - 🎯2026 goal: familiarizing myself with ESL methodology and the VLSI backend flow
