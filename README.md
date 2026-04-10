@@ -15,6 +15,8 @@
 <img align="left" alt="CPlusPlus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 
+<br>
+<br>
 ## 🔨 Tools
 <img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Xilinx" width="26px" src="materials/xilinx.png" />
