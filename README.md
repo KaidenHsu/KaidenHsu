@@ -9,12 +9,13 @@
 - 📧 reach out to me: [email](mailto:ryan.hsu06190619@gmail.com)
 - 🎯2026 goal: familiarizing myself with ESL methodology and the VLSI backend flow
 
-## 🔨 Languages and Tools
+## </> Languages
 <img align="left" alt="Verilog" width="26px" src="materials/verilog.svg" />
 <img align="left" alt="SystemVerilog" width="26px" src="materials/systemverilog.svg" />
 <img align="left" alt="CPlusPlus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 
+## 🔨 Tools
 <img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Xilinx" width="26px" src="materials/xilinx.png" />
 
