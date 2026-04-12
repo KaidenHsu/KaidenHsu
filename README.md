@@ -1,9 +1,9 @@
 # Hi there, I'm Kaiden! 👋
 
 - 🏫 **M.S.**: [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
-    - research focus: combine system co-design, FPGA acceleration, digital IC design with biomedical applications
-    - tools: Gem5, Verilator, RISC-V, Xilinx Alveo U250 FPGA
-    - keywords: domain specific architecuture (DSA), electronic system level (ESL), digital IC design, FPGA prototyping, system co-design, hardware-software co-design, HBM
+    - *research focus*: combine system co-design, FPGA acceleration, digital IC design with biomedical applications
+    - *tools*: Gem5, Verilator, RISC-V, Xilinx Alveo U250 FPGA
+    - *keywords*: domain specific architecuture (DSA), electronic system level (ESL), digital IC design, FPGA prototyping, system co-design, hardware-software co-design, HBM
 - 🏫 **B.S.**: [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
 
 - 📧 **reach out to me**: [email](mailto:ryan.hsu06190619@gmail.com)
