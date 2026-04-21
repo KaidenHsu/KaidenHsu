@@ -5,8 +5,6 @@
     - ***tools***: Gem5, Verilator, RISC-V, Xilinx Alveo U250 FPGA
     - ***keywords***: domain specific architecuture (DSA), electronic system level (ESL), digital IC design, FPGA prototyping, system co-design, hardware-software co-design, HBM
 - 🏫 **B.S.**: [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
-
-- 📧 **reach out to me**: [email](mailto:ryan.hsu06190619@gmail.com)
 - 🎯**2026 goal**: familiarizing myself with ESL methodology and VLSI backend flow
 
 ## </> Languages
