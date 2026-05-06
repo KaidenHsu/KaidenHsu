@@ -20,7 +20,7 @@ Currently an EE (SoC subgroup) graduate at NSYSU, Taiwan.
 
 <img align="left" alt="Verilog" width="26px" src="materials/verilog.svg" />
 <img align="left" alt="SystemVerilog" width="26px" src="materials/systemverilog.svg" />
-<img align="left" alt="C" width="26px" src="materials/C.svg" />
+<img align="left" alt="C" width="24px" src="materials/C.svg" />
 <img align="left" alt="CPlusPlus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 
@@ -29,10 +29,10 @@ Currently an EE (SoC subgroup) graduate at NSYSU, Taiwan.
 
 ## 🔨 Tools
 
-<img align="left" alt="Linix" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linix" width="28x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Xilinx" width="26px" src="materials/xilinx.png" />
 <img align="left" alt="RISC-V" width="32px" src="materials/riscv.png" />
-<img align="left" alt="Gem5" width="26px" src="materials/gem5.svg" />
+<img align="left" alt="Gem5" width="28px" src="materials/gem5.svg" />
 
 <br>
 <br>
