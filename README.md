@@ -1,6 +1,6 @@
 # Hi there, I'm Kaiden! 👋
 
-Currently an EE (SoC subgroup) graduate at NSYSU, Taiwan.
+> 🚀 Prospective **System Architect**, **Digital IC Designer**
 
 ## Education
 
