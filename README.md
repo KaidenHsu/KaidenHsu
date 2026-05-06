@@ -29,10 +29,10 @@ Currently an EE (SoC subgroup) graduate at NSYSU, Taiwan.
 
 ## 🔨 Tools
 
-<img align="left" alt="Linix" width="28x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Xilinx" width="26px" src="materials/xilinx.png" />
-<img align="left" alt="RISC-V" width="32px" src="materials/riscv.png" />
-<img align="left" alt="Gem5" width="28px" src="materials/gem5.svg" />
+<img align="left" alt="Linix" width="30x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Xilinx" width="28px" src="materials/xilinx.png" />
+<img align="left" alt="RISC-V" width="36px" src="materials/riscv.png" />
+<img align="left" alt="Gem5" width="30px" src="materials/gem5.svg" />
 
 <br>
 <br>
