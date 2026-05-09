@@ -47,8 +47,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaidenHsu&theme=rose_pine) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaidenHsu&theme=rose_pine)
 
-> 🎯 2026-2027 goals:
->
-> - [ ] Publish first paper — 3D-UNet HBM Performance Modeling and Architecture Proposal
-> - [ ] Complete FPGA prototyping on Alveo U55C
-> - [ ] Build hands-on experience on the IC design flow
+## 🎯 2026-2027 Goals
+
+- [ ] Publish first paper — 3D-UNet HBM Performance Modeling and Novel Architecture Idea
+- [ ] Complete FPGA prototyping on Alveo U55C
+- [ ] Build hands-on experience on the IC design flow
