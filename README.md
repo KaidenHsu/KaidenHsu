@@ -22,7 +22,7 @@
 -  **M.S.**   [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
     - ***ongoing research***: 3D-UNet inference acceleration on HBM-based domain-specific accelerators
     - ***tools***: Gem5, Verilator, RISC-V, Xilinx Alveo U55c FPGA Accelerator Card
-    - ***keywords***: domain specific architecuture (DSA), performance modeling, Design Space Exploration (DSA), HBM-based FPGA prototyping, hardware-software co-design
+    - ***keywords***: domain specific architecture (DSA), performance modeling, Design Space Exploration (DSA), HBM-based FPGA prototyping, hardware-software co-design
 - **B.S.**   [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
     - ***research focus***: AI model architecture optimization, AI edge applications
     - [An Improved Spatial Transformer Network based on Lightweight Localization Net (L-STN) (ISASD 2024)][1]
@@ -30,7 +30,6 @@
 
 [1]: https://github.com/KaidenHsu/STN-Network
 [2]: https://github.com/KaidenHsu/Back-Angle-Measurement-Using-YOLOv8
-
 
 ## 🏆 Featured Coursework
 
@@ -53,4 +52,3 @@
 > - [ ] Publish first paper — 3D-UNet HBM Performance Modeling and Architecture Proposal
 > - [ ] Complete FPGA prototyping on Alveo U55C
 > - [ ] Build hands-on experience on the IC design flow
-
