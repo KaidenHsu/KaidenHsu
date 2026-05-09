@@ -1,5 +1,7 @@
 # Hi there, I'm Kaiden! 👋
 
+> 🚀 Prospective **System Architect**, **Digital IC Designer**
+
 ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
@@ -14,7 +16,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-> 🚀 Prospective **System Architect**, **Digital IC Designer**
 
 ## 🏫 Education
 
@@ -51,5 +52,5 @@
 >
 > - [ ] Publish first paper — 3D-UNet HBM Performance Modeling and Architecture Proposal
 > - [ ] Complete FPGA prototyping on Alveo U55C
-> - [ ] Building hands-on experience on the IC design flow
+> - [ ] Build hands-on experience on the IC design flow
 
