@@ -1,5 +1,19 @@
 # Hi there, I'm Kaiden! 👋
 
+![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+![Gem5](https://img.shields.io/badge/Gem5-system%20simulator-orange?style=flat-square)
+![Timeloop](https://img.shields.io/badge/Timeloop-DSE-red?style=flat-square)
+![Xilinx](https://img.shields.io/badge/Xilinx-Vivado%20%7C%20Vitis-E01F27?style=flat-square)
+![RISC-V](https://img.shields.io/badge/RISC--V-open%20source%20hardware-red?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 > 🚀 Prospective **System Architect**, **Digital IC Designer**
 
 ## 🏫 Education
@@ -16,24 +30,6 @@
 [1]: https://github.com/KaidenHsu/STN-Network
 [2]: https://github.com/KaidenHsu/Back-Angle-Measurement-Using-YOLOv8
 
-## 💻 Languages
-
-![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## 🔨 Tools & Frameworks
-
-![Gem5](https://img.shields.io/badge/Gem5-system%20simulator-orange?style=flat-square)
-![Timeloop](https://img.shields.io/badge/Timeloop-DSE-red?style=flat-square)
-![Xilinx](https://img.shields.io/badge/Xilinx-Vivado%20%7C%20Vitis-E01F27?style=flat-square)
-![RISC-V](https://img.shields.io/badge/RISC--V-open%20source%20hardware-red?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
----
 
 ## 🏆 Featured Coursework
 
