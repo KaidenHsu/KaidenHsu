@@ -16,13 +16,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
+I am interested in **cross-layer AI workload acceleration**, from model level to microarchitecture level.
 
-## 🏫 Education
+## 🧪 Research Interest
 
 -  **M.S.**   [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
-    - ***ongoing research***: 3D-UNet inference acceleration on HBM-based domain-specific accelerators
-    - ***tools***: Gem5, Verilator, RISC-V, Xilinx Alveo U55c FPGA Accelerator Card
-    - ***keywords***: domain specific architecture (DSA), performance modeling and simulation, Design Space Exploration (DSE), HBM-based FPGA prototyping, hardware-software co-design
+    - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* (current focus 🔎)
+    - ***tools***: Gem5, Timeloop/Accelergy, Verilator, HBM-enabled FPGA (Xilinx Alveo U55c)
+    - ***keywords***: domain specific architecture (DSA), performance modeling and simulation, Design Space Exploration (DSE), HBM-based FPGA prototyping, near-memory computing, hardware-software co-design
 - **B.S.**   [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
     - ***research focus***: AI model architecture optimization, AI edge applications
     - [An Improved Spatial Transformer Network based on Lightweight Localization Net (L-STN) (ISASD 2024)][1]
@@ -31,14 +32,20 @@
 [1]: https://github.com/KaidenHsu/STN-Network
 [2]: https://github.com/KaidenHsu/Back-Angle-Measurement-Using-YOLOv8
 
+## 🧩 Technical Focus
+
+- **Hardware–Software Co-Design**: cross-layer optimization, from workload to microarchitecture
+- **Performance Modeling & Memory Systems**: bandwidth / latency / access pattern analysis
+- **FPGA-Based Prototyping**: architecture validation on real hardware
+
 ## 🏆 Featured Coursework
 
-| Repo | Description | Skills |
+| Course | Description | Skills |
 |------|-------------|--------|
-| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | FPGA system design using Zedboard |  AMBA AXI, AI acceleration, Vivado SDK |
-| [Open Source Prototype Systems](https://github.com/KaidenHsu/Open-Source-Prototype-Systems) | open source hardware, RISC-V CPU implementation | RISC-V toolchain |
-| [DLab](https://github.com/KaidenHsu/DLab) | FPGA implementation basics | Verilog, Vivado |
-| [Computer Architecture](https://github.com/KaidenHsu/Computer-Architecture) | ISA-microarchitecture simulation | RISC-V, Gem5 simulator  |
+| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | built AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA AXI, AI acceleration, Vivado SDK |
+| [Open Source Prototype Systems](https://github.com/KaidenHsu/Open-Source-Prototype-Systems) | RISC-V pipelined CPU implementation with memory subsystem | RISC-V toolchain |
+| [DLab](https://github.com/KaidenHsu/DLab) | FPGA hands-on implementation | Verilog, Vivado |
+| [Computer Architecture](https://github.com/KaidenHsu/Computer-Architecture) | simulate workloads across processors and configurations on Gem5 | RISC-V, Gem5 simulator  |
 
 ## 📈 GitHub Stats
 
