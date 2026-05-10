@@ -21,7 +21,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 ## 🧪 Research Interests
 
 -  **M.S.**   [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
-    - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* (current focus 🔎)
+    - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* (🔎 current focus)
     - ***tools***: Gem5, Timeloop/Accelergy, Verilator, HBM-enabled FPGA (Xilinx Alveo U55c)
     - ***keywords***: domain specific architecture (DSA), performance modeling and simulation, design space exploration (DSE), HBM-based FPGA prototyping, near-memory computing, hardware-software co-design
 - **B.S.**   [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
@@ -56,6 +56,6 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 
 ## 🎯 2026-2027 Goals
 
-- [ ] Publish first paper — 3D-UNet HBM Performance Modeling and Novel Architecture Idea
-- [ ] Complete FPGA prototyping on Alveo U55C
+- [ ] Publish first paper — 3D-UNet HBM Performance Modeling and Memory-Centric Architecture
+- [ ] End-to-end FPGA prototyping on Alveo U55C
 - [ ] Build hands-on experience on the IC design flow
