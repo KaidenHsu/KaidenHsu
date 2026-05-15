@@ -35,17 +35,17 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 ## 🧩 Technical Focus
 
 - **Hardware–Software Co-Design**: cross-layer optimization, from workload to microarchitecture
-- **Performance Modeling & Memory Systems**: bandwidth / latency / access pattern analysis
-- **FPGA-Based Prototyping**: architecture validation on real hardware
+- **Performance Modeling & Memory Systems**: ESL, DSE, memory-centric architecture
+- **FPGA-Based Prototyping**: real architecture improvement claims require silicon-proven backup
 
 ## 🏆 Featured Coursework
 
 | Course | Description | Skills |
 |------|-------------|--------|
-| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA AXI, AI acceleration, Vivado SDK |
 | [Open Source Prototype Systems](https://github.com/KaidenHsu/Open-Source-Prototype-Systems) | RISC-V pipelined CPU implementation with memory subsystem | RISC-V toolchain |
-| [DLab](https://github.com/KaidenHsu/DLab) | FPGA hands-on implementation | Verilog, Vivado |
 | [Computer Architecture](https://github.com/KaidenHsu/Computer-Architecture) | model and evaluate workloads across processors and configurations on Gem5 | RISC-V, Gem5 simulator  |
+| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA AXI, AI acceleration, Vivado SDK, driver development |
+| [DLab](https://github.com/KaidenHsu/DLab) | FPGA hands-on implementation | Verilog, Vivado |
 
 ## 📈 GitHub Stats
 
@@ -56,6 +56,6 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 
 ## 🎯 2026-2027 Goals
 
-- [ ] Publish first paper — 3D-UNet HBM Performance Modeling and Memory-Centric Architecture
+- [ ] Publish first paper — 3D-UNet Performance Modeling and HBM-based Memory-Centric Architecture
 - [ ] End-to-end FPGA prototyping on Alveo U55C
 - [ ] Build hands-on experience on the IC design flow
