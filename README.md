@@ -1,6 +1,6 @@
 # Hi there, I'm Kaiden from Taiwan! 👋
 
-> 🚀 Prospective **System Architect**, **Digital IC Designer**
+> 🚀 Prospective **Silicon Architect**
 
 ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
@@ -23,7 +23,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 -  **M.S.**   [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
     - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* (🔎 current focus)
     - ***tools***: Gem5, Timeloop/Accelergy, Verilator, HBM-enabled FPGA (Xilinx Alveo U55c)
-    - ***keywords***: domain specific architecture (DSA), performance modeling and simulation, design space exploration (DSE), HBM-based FPGA prototyping, near-memory computing, hardware-software co-design
+    - ***keywords***: domain specific architecture (DSA), performance modeling and simulation, HBM-based FPGA, digital IC design
 - **B.S.**   [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
     - ***research focus***: AI model architecture optimization, AI edge applications
     - [An Improved Spatial Transformer Network based on Lightweight Localization Net (L-STN) (ISASD 2024)][1]
@@ -44,7 +44,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 |------|-------------|--------|
 | [Open Source Prototype Systems](https://github.com/KaidenHsu/Open-Source-Prototype-Systems) | RISC-V pipelined CPU implementation with memory subsystem | RISC-V toolchain |
 | [Computer Architecture](https://github.com/KaidenHsu/Computer-Architecture) | model and evaluate workloads across processors and configurations on Gem5 | RISC-V, Gem5 simulator  |
-| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA AXI, AI acceleration, Vivado SDK, driver development |
+| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA AXI, AI acceleration, Vivado SDK, Linux driver |
 | [DLab](https://github.com/KaidenHsu/DLab) | FPGA hands-on implementation | Verilog, Vivado |
 
 ## 📈 GitHub Stats
