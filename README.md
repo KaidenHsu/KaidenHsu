@@ -23,7 +23,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 -  **M.S.**   [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
     - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* (🔎 current focus)
     - ***tools***: Gem5, Timeloop/Accelergy, Verilator, HBM-enabled FPGA (Xilinx Alveo U55c)
-    - ***keywords***: domain specific architecture (DSA), performance modeling, FPGA prototyping, memory-centric architecture, digital IC design
+    - ***keywords***: domain specific architecture (DSA), performance modeling, FPGA prototyping, HBM
 - **B.S.**   [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
     - ***research focus***: AI model architecture optimization, AI edge applications
     - [An Improved Spatial Transformer Network based on Lightweight Localization Net (L-STN) (ISASD 2024)][1]
