@@ -23,7 +23,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 -  **M.S.**   [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
     - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* (🔎 current focus)
     - ***tools***: Gem5, Timeloop/Accelergy, Verilator, HBM-enabled FPGA (Xilinx Alveo U55c)
-    - ***keywords***: domain specific architecture (DSA), performance modeling and simulation, HBM-based FPGA, digital IC design
+    - ***keywords***: domain specific architecture (DSA), performance modeling, FPGA prototyping, memory-centric architecture, digital IC design
 - **B.S.**   [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
     - ***research focus***: AI model architecture optimization, AI edge applications
     - [An Improved Spatial Transformer Network based on Lightweight Localization Net (L-STN) (ISASD 2024)][1]
@@ -35,7 +35,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 ## 🧩 Technical Focus
 
 - **Hardware–Software Co-Design**: cross-layer optimization, from workload to microarchitecture
-- **Performance Modeling & Memory Systems**: ESL, DSE, memory-centric architecture
+- **Performance Modeling & Memory Systems**: design space exploration (DSE), memory-centric architecture
 - **FPGA-Based Prototyping**: real architecture improvement claims require silicon-proven backup
 
 ## 🏆 Featured Coursework
@@ -58,4 +58,4 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 
 - [ ] Publish first paper — 3D-UNet Performance Modeling and HBM-based Memory-Centric Architecture
 - [ ] End-to-end FPGA prototyping on Alveo U55C
-- [ ] Build hands-on experience on the IC design flow
+- [ ] From FPGA prototypes to tapeout-ready IC design
