@@ -1,12 +1,13 @@
 # Hi there, I'm Kaiden from Taiwan! 👋
 
-> 🚀 Prospective **Silicon Architect**
+> 🚀 Prospective **Silicon Performance Architect**
 
 ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 
 ![Gem5](https://img.shields.io/badge/Gem5-system%20simulator-orange?style=flat-square)
@@ -42,10 +43,14 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 
 | Course | Description | Skills |
 |------|-------------|--------|
-| [Open Source Prototype Systems](https://github.com/KaidenHsu/Open-Source-Prototype-Systems) | RISC-V pipelined CPU implementation with memory subsystem | RISC-V toolchain |
-| [Computer Architecture](https://github.com/KaidenHsu/Computer-Architecture) | model and evaluate workloads across processors and configurations on Gem5 | RISC-V, Gem5 simulator  |
-| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA AXI, AI acceleration, Vivado SDK, Linux driver |
+| [Open Source Prototype Systems](https://github.com/KaidenHsu/Open-Source-Prototype-Systems) | RISC-V processor pipeline, memory subsystem, system-level tradeoff | Verilator, Gem5 |
+| [Computer Architecture](https://github.com/KaidenHsu/Computer-Architecture) | model and evaluate workloads across processors and system configurations | Gem5 |
+| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA 2.0, AXI, Vivado SDK, Linux driver |
 | [DLab](https://github.com/KaidenHsu/DLab) | FPGA hands-on implementation | Verilog, Vivado |
+
+[📚 View All Courses][3]
+
+[3]: https://github.com/KaidenHsu/NCCU-NSYSU-Courses
 
 ## 📈 GitHub Stats
 
