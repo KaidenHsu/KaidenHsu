@@ -45,7 +45,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 |------|-------------|--------|
 | [Open Source Prototype Systems](https://github.com/KaidenHsu/Open-Source-Prototype-Systems) | RISC-V processor pipeline, memory subsystem, system-level tradeoff | Verilator, Gem5 |
 | [Computer Architecture](https://github.com/KaidenHsu/Computer-Architecture) | model and evaluate workloads across processors and system configurations | Gem5 |
-| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA 2.0, AXI, Vivado SDK, Linux driver |
+| [SOPC System Design](https://github.com/KaidenHsu/SOPC-System-Design) | AXI-based FPGA system integrating custom accelerators on Zedboard |  AMBA AXI, Linux driver |
 | [DLab](https://github.com/KaidenHsu/DLab) | FPGA hands-on implementation | Verilog, Vivado |
 
 [📚 View All Courses][3]
