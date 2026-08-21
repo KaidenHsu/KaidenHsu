@@ -54,10 +54,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 
 ## 📈 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaidenHsu&theme=rose_pine) 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaidenHsu&theme=rose_pine) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaidenHsu&theme=rose_pine)
 
 ## 🎯 2026-2027 Goals
 
