@@ -39,7 +39,7 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 - **Performance Modeling & Memory Systems**: design space exploration (DSE), memory-centric architecture
 - **FPGA-Based Prototyping**: real architecture improvement claims require silicon-proven backup
 
-## 🏆 Featured Coursework
+## 🏆 Featured Projects
 
 | Course | Description | Skills |
 |------|-------------|--------|
@@ -51,8 +51,6 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 [📚 View All Courses][3]
 
 [3]: https://github.com/KaidenHsu/NCCU-NSYSU-Courses
-
-## 📈 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaidenHsu&theme=rose_pine) 
 
