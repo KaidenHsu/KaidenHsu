@@ -1,6 +1,6 @@
 # Hi there, I'm Kaiden from Taiwan! 👋
 
-> 🚀 Prospective **Silicon Performance Architect**
+> 🚀 Prospective **SoC Performance Architect**
 
 ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
@@ -22,9 +22,9 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 ## 🧪 Research Interests
 
 -  **M.S.**   [Electrical Engineering (SoC subgroup) @ NSYSU, Taiwan](https://web.ee.nsysu.edu.tw/p/412-1203-11592.php?Lang=zh-tw) ([System Co-Design Lab](https://system-co-design-lab.github.io/scdlab/))
-    - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* (🔎 current focus)
+    - ***ongoing research***: *memory-centric accelerator architecture targeting 3D-UNet workload* ←🔎 *current focus*
     - ***tools***: Gem5, Timeloop/Accelergy, Verilator, HBM-enabled FPGA (Xilinx Alveo U55c)
-    - ***keywords***: domain specific architecture (DSA), performance modeling, FPGA prototyping, HBM
+    - ***keywords***: Domain Specific Architecture (DSA), performance modeling, FPGA prototyping, HBM, near-memory computing
 - **B.S.**   [Computer Science (AI subgroup) @ NCCU, Taiwan](https://www.cs.nccu.edu.tw/web/index/index.jsp?lang=en)
     - ***research focus***: AI model architecture optimization, AI edge applications
     - [An Improved Spatial Transformer Network based on Lightweight Localization Net (L-STN) (ISASD 2024)][1]
