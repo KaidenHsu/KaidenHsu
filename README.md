@@ -1,6 +1,6 @@
 # Hi there, I'm Kaiden from Taiwan! 👋
 
-> 🚀 Prospective **SoC Performance Architect**
+> 🚀 Computer Architecture Researcher @ NSYSU EE MS
 
 ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
@@ -53,9 +53,3 @@ I am interested in **cross-layer AI workload optimization**, from model level to
 [3]: https://github.com/KaidenHsu/NCCU-NSYSU-Courses
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaidenHsu&theme=rose_pine) 
-
-## 🎯 2026-2027 Goals
-
-- [ ] Publish first paper — 3D-UNet Performance Modeling and HBM-based Memory-Centric Architecture
-- [ ] End-to-end FPGA prototyping on Alveo U55c
-- [ ] From FPGA prototypes to tapeout-ready IC design
