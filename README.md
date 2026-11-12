@@ -1,6 +1,6 @@
 # Hi there, I'm Kaiden from Taiwan! 👋
 
-> 🚀 Computer Architecture Researcher @ NSYSU EE MS
+> 🚀 Computer Architecture Researcher @ NSYSU EE, MS Student
 
 ![Verilog](https://img.shields.io/badge/Verilog-blue?style=flat-square)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-5C2D91?style=flat-square)
